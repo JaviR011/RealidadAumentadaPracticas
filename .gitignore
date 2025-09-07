@@ -1,0 +1,28 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos de compilación
+*.apk
+*.aab
+*.so
+*.dll
+*.exe
+
+# Paquetes grandes
+*.tgz
+*.zip
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de IDE
+.vscode/
+.idea/
+.vs/
