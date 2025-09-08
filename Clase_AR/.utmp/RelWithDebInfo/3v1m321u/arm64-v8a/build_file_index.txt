@@ -1,0 +1,2 @@
+D:\9NO\RealidadAumentadaPracticas\Clase_AR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\9NO\RealidadAumentadaPracticas\Clase_AR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

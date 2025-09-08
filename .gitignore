@@ -17,7 +17,7 @@
 # Paquetes grandes
 *.tgz
 *.zip
-
+*.obj
 # Archivos del sistema
 .DS_Store
 Thumbs.db

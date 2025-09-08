@@ -22,8 +22,10 @@ MonoBehaviour:
   m_Scenes:
   - m_enabled: 0
     m_path: Assets/Scenes/SampleScene.unity
-  - m_enabled: 1
+  - m_enabled: 0
     m_path: Assets/Practica1_Javier_Rodriguez.unity
+  - m_enabled: 1
+    m_path: Assets/Practica2_Javier_Rodriguez.unity
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
     m_Settings: []
