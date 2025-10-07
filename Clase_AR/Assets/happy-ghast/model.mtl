@@ -1,0 +1,9 @@
+# exported by https://3dviewer.net
+newmtl Gust
+Kd 1 1 1
+d 1
+map_Kd Binary_0.png
+newmtl Saddle
+Kd 1 1 1
+d 1
+map_Kd Binary_4.png

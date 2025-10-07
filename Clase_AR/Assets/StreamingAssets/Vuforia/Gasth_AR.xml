@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="133" size="1.000000 1.000000" />
+    <ImageTarget name="11" size="1.000000 1.000000" />
+    <ImageTarget name="12" size="1.000000 1.000000" />
     <ImageTarget name="qr-code" size="1.000000 1.000000" />
   </Tracking>
 </QCARConfig>

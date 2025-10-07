@@ -1,0 +1,1073 @@
+{
+    "tabs": {
+        "Tab 1": {
+            "buttons": [
+                {
+                    "id": "Tab 1_button_001",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fba70b",
+                    "opacity": 1.0,
+                    "position": [
+                        164.87511660117534,
+                        778.5289376914161
+                    ],
+                    "width": 67.5,
+                    "height": 67.5,
+                    "radius": [
+                        36.0,
+                        36.0,
+                        36.0,
+                        36.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "Tentacle_back.L",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_002",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fba70b",
+                    "opacity": 1.0,
+                    "position": [
+                        1.9010146499540963,
+                        583.4882378162997
+                    ],
+                    "width": 67.5,
+                    "height": 67.5,
+                    "radius": [
+                        36.0,
+                        36.0,
+                        36.0,
+                        36.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "Tentacle_front",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_003",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fba70b",
+                    "opacity": 1.0,
+                    "position": [
+                        -164.36290079250867,
+                        778.0750110912246
+                    ],
+                    "width": 67.5,
+                    "height": 67.5,
+                    "radius": [
+                        36.0,
+                        36.0,
+                        36.0,
+                        36.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "Tentacle_back.R",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_004",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fba70b",
+                    "opacity": 1.0,
+                    "position": [
+                        -150.35684279078902,
+                        584.4386363408863
+                    ],
+                    "width": 67.5,
+                    "height": 67.5,
+                    "radius": [
+                        36.0,
+                        36.0,
+                        36.0,
+                        36.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "Tentacle_front.R",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_005",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fba70b",
+                    "opacity": 1.0,
+                    "position": [
+                        1.4723943962017825,
+                        779.5664154034931
+                    ],
+                    "width": 67.5,
+                    "height": 67.5,
+                    "radius": [
+                        36.0,
+                        36.0,
+                        36.0,
+                        36.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "Tentacle_back",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_006",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fba70b",
+                    "opacity": 1.0,
+                    "position": [
+                        153.88004066037377,
+                        583.7030000372663
+                    ],
+                    "width": 67.5,
+                    "height": 67.5,
+                    "radius": [
+                        36.0,
+                        36.0,
+                        36.0,
+                        36.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "Tentacle_front.L",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_008",
+                    "selectable": true,
+                    "label": "ROOT",
+                    "color": "#ec2d2d",
+                    "opacity": 1,
+                    "position": [
+                        -2.369995901087962,
+                        304.10240620231815
+                    ],
+                    "width": 523.3,
+                    "height": 42.7,
+                    "radius": [
+                        20.0,
+                        20.0,
+                        20.0,
+                        20.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "Root",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_009",
+                    "selectable": true,
+                    "label": "BODY",
+                    "color": "#ec2d2d",
+                    "opacity": 1,
+                    "position": [
+                        -2.369995901087962,
+                        45.98038451627414
+                    ],
+                    "width": 387.0,
+                    "height": 42.7,
+                    "radius": [
+                        20.0,
+                        20.0,
+                        20.0,
+                        20.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "Body",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_010",
+                    "selectable": true,
+                    "label": "SADDLE",
+                    "color": "#ec2d2d",
+                    "opacity": 1,
+                    "position": [
+                        -2.369995901087962,
+                        -487.8515130797933
+                    ],
+                    "width": 487.4,
+                    "height": 42.7,
+                    "radius": [
+                        20.0,
+                        20.0,
+                        20.0,
+                        20.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "Saddle",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_011",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#e06202",
+                    "opacity": 1.0,
+                    "position": [
+                        -0.8147889087435747,
+                        -157.34591951318814
+                    ],
+                    "width": 62.1,
+                    "height": 62.1,
+                    "radius": [
+                        18.0,
+                        18.0,
+                        18.0,
+                        18.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "CTRL_Eye",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_012",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#e06202",
+                    "opacity": 0.7,
+                    "position": [
+                        -94.86915844983173,
+                        -157.34591951318814
+                    ],
+                    "width": 44.2,
+                    "height": 44.2,
+                    "radius": [
+                        18.0,
+                        18.0,
+                        18.0,
+                        18.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "CTRL_Eye.R",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_013",
+                    "selectable": true,
+                    "label": "GLASSES",
+                    "color": "#e06202",
+                    "opacity": 0.9,
+                    "position": [
+                        -0.8147889087435747,
+                        -335.57096491850797
+                    ],
+                    "width": 211.5,
+                    "height": 60.3,
+                    "radius": [
+                        18.0,
+                        18.0,
+                        18.0,
+                        18.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "CTRL_Glasses",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_014",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#e06202",
+                    "opacity": 1.0,
+                    "position": [
+                        -315.4614052230223,
+                        41.419551373904824
+                    ],
+                    "width": 85.7,
+                    "height": 50.8,
+                    "radius": [
+                        18.0,
+                        18.0,
+                        18.0,
+                        18.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "IK_Strap.R",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_015",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#e06202",
+                    "opacity": 1.0,
+                    "position": [
+                        310.4769427755177,
+                        35.552687953169674
+                    ],
+                    "width": 85.7,
+                    "height": 50.8,
+                    "radius": [
+                        18.0,
+                        18.0,
+                        18.0,
+                        18.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "IK_Strap.L",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_016",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#e06202",
+                    "opacity": 0.7,
+                    "position": [
+                        94.41524762841611,
+                        -160.5852276010159
+                    ],
+                    "width": 44.2,
+                    "height": 44.2,
+                    "radius": [
+                        18.0,
+                        18.0,
+                        18.0,
+                        18.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "CTRL_Eye.L",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_017",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        -2.9386386793598427,
+                        -574.3378100119805
+                    ],
+                    "width": 62.1,
+                    "height": 62.1,
+                    "radius": [
+                        18.0,
+                        18.0,
+                        18.0,
+                        18.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "CTRL_Cloth",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_018",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        454.37382629873616,
+                        -308.24532733056174
+                    ],
+                    "width": 102.5,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.L.010",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_019",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        454.37382629873616,
+                        -223.47080537477655
+                    ],
+                    "width": 89.7,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.L.013",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_020",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        454.37382629873616,
+                        -138.69628341899136
+                    ],
+                    "width": 72.3,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.L.015",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_021",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        454.37382629873616,
+                        -53.92176146320616
+                    ],
+                    "width": 61.3,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.L.016",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_023",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        815.4653764247731,
+                        -308.8364010381989
+                    ],
+                    "width": 102.5,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.L.005",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_024",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        815.4653764247731,
+                        -223.08318179896418
+                    ],
+                    "width": 89.7,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.L.002",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_025",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        815.4653764247731,
+                        -137.32996255972947
+                    ],
+                    "width": 72.3,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.L.004",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_026",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        815.4653764247731,
+                        -51.576743320494764
+                    ],
+                    "width": 61.3,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.L.008",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_028",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        -441.5177092454631,
+                        -319.0270638228901
+                    ],
+                    "width": 102.5,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.R.010",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_029",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        -441.5177092454631,
+                        -228.8153347368298
+                    ],
+                    "width": 89.7,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.R.013",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_030",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        -441.5177092454631,
+                        -138.60360565076948
+                    ],
+                    "width": 72.3,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.R.015",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_031",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        -441.5177092454631,
+                        -48.39187656470912
+                    ],
+                    "width": 61.3,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.R.016",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_033",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        -802.6092593715,
+                        -319.6181375305273
+                    ],
+                    "width": 102.5,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.R.005",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_034",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        -802.6092593715,
+                        -229.406408444467
+                    ],
+                    "width": 89.7,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.R.002",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_035",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        -802.6092593715,
+                        -139.19467935840666
+                    ],
+                    "width": 72.3,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.R.004",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                },
+                {
+                    "id": "Tab 1_button_036",
+                    "selectable": true,
+                    "label": "",
+                    "color": "#fbdc0e",
+                    "opacity": 1.0,
+                    "position": [
+                        -802.6092593715,
+                        -48.9829502723463
+                    ],
+                    "width": 61.3,
+                    "height": 33.7,
+                    "radius": [
+                        16.0,
+                        16.0,
+                        16.0,
+                        16.0
+                    ],
+                    "assigned_objects": [
+                        {
+                            "name": "DEF_Cloth.R.008",
+                            "armature": "Gust",
+                            "is_bone": true
+                        }
+                    ],
+                    "mode": "select",
+                    "script_data": {},
+                    "pose_data": {},
+                    "thumbnail_path": "",
+                    "shape_type": "rounded_rect",
+                    "svg_path_data": null,
+                    "svg_file_path": null
+                }
+            ],
+            "image_path": "D:/1 My projects/Happy Gust/3D Models Happy Ghast/Rig Picker.png",
+            "image_opacity": 0.5,
+            "image_scale": 1.0,
+            "background_value": 20,
+            "namespace": "None",
+            "show_dots": true,
+            "show_axes": false,
+            "show_grid": false,
+            "grid_size": 50
+        }
+    }
+}

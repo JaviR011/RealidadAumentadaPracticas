@@ -13,6 +13,8 @@
 *.so
 *.dll
 *.exe
+*.blend
+*.fbx
 
 # Paquetes grandes
 *.tgz

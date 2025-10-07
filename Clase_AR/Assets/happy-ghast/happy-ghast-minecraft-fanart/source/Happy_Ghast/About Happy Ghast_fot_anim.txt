@@ -1,0 +1,19 @@
+Author: Andrey Barsh
+
+License: CC BY-NC Personal Use Only, Attribution Required
+This file is provided for personal use only. When creating animations or publishing renders/videos, please credit the model author — Andrey Barsh. Commercial use, resale, and redistribution of this file are prohibited.
+
+Model Description:
+
+- Animation-ready model with rig
+- PBR textures
+- Picker support via ft anim picker (JSON file included)
+- Pose library to speed up your workflow
+
+To display the picker background: RMB -> Edit Mode -> Canvas -> Add -> Rig Picker.png
+
+Feedback:
+I would love to see your animations and renders!
+
+Telegram - @AndreyBarsh
+Email - barsh.andrey@yandex.ru
